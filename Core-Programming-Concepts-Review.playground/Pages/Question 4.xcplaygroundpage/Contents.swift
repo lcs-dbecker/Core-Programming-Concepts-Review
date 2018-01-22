@@ -22,12 +22,11 @@
  */
 // Answer question 4 below
 
-print("The number of diners will always be a whole number")
+let dinerCount : Int
 let saladBar : Double
 let soup : Double
 let mainCourse : Double
 let pizzaOven : Double
-print("The mass of food can potentially be in decimal form, therefore there data should be stored as a double.")
 let date : String
 let timeFrame : String
 /*:
