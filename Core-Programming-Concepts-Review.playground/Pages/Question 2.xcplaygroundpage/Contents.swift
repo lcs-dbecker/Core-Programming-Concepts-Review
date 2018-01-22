@@ -18,7 +18,20 @@
  
  */
 // Answer question 2 below
+var numberOfTotalCommits = 5
+var numberOfForks = 5
+let yearCreated = 2018
+let monthCreated = 4
+let dayCreated = 21
 
+
+print(numberOfTotalCommits, "variable because it des change every time someonecommits")
+
+print(numberOfForks, "variable because it des change every time someone forks")
+
+print(yearCreated, "constant because is does not change")
+print(monthCreated, "constant because is does not change")
+print(dayCreated, "constant because is does not change")
 /*:
  ## Now share your understanding
  
