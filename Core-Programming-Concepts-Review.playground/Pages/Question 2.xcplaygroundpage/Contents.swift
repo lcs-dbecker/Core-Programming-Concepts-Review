@@ -25,9 +25,9 @@ let monthCreated = 4
 let dayCreated = 21
 
 
-print(numberOfTotalCommits, "variable because it des change every time someonecommits")
+print(numberOfTotalCommits, "variable because it does change every time someone commits")
 
-print(numberOfForks, "variable because it des change every time someone forks")
+print(numberOfForks, "variable because it does change every time someone forks")
 
 print(yearCreated, "constant because is does not change")
 print(monthCreated, "constant because is does not change")
