@@ -14,7 +14,12 @@
  
  */
 // Answer question 3 below
-
+var piggyBank = 0
+piggyBank = 10
+piggyBank = 30
+piggyBank = 15
+piggyBank = 45
+piggyBank = 42
 /*:
  ## Now share your understanding
  
