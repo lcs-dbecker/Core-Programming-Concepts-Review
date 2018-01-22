@@ -42,8 +42,7 @@ else if currentHeartRate > 181 && currentHeartRate < 200
 {
 print("You are in the Maximum zone. Activity in this zone helps fit athletes develop speed.")
     }
-else
-{
+else if currentHeartRate > 200 {
 print("you are doing to much excersise, stop")
 }
 
