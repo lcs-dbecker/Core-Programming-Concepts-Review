@@ -15,11 +15,11 @@
  */
 // Answer question 3 below
 var piggyBank : Double = 0.0
-piggyBank + 10
-piggyBank + 20
-piggyBank / 2
-piggyBank * 3
-piggyBank - 3
+piggyBank += 10
+piggyBank += 20
+piggyBank /= 2
+piggyBank *= 3
+piggyBank -= 3
 /*:
  ## Now share your understanding
  
