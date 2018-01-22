@@ -23,29 +23,19 @@ let isRaining = true
 let isSunny = true
 
 // Answer question 5 below
-let isNiceWeather : Bool
+let isNiceWeather = !isRaining
 
-if temperatureInCelsius > 20 && isSunny
-    {
-isNiceWeather = true
-    }
-else if isRaining == false
-    {
-isNiceWeather = true
-    }
-else
-    {
-isNiceWeather = false
-    }
+if temperatureInCelsius > 20 && isSunny {
+    
+    isNiceWeather == true
+    print("I'll go for a walk!")
+    
+} else {
+    
+    print("I'll stay inside today.")
+    
+}
 
-if isNiceWeather == true
-    {
-print("I'll go for a walk!")
-    }
-else
-    {
-print("I'll stay inside today.")
-    }
 
 /*:
  ## Now share your understanding
